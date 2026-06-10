@@ -86,6 +86,3 @@ else:
 | 2    | 10  | No        | Yes        | Not Allowed     |
 
 ---
-
-## Activity 4: Update files using git & push
-
